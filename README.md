@@ -13,5 +13,5 @@ This is an open-source project dedicated to collecting top-tier AI prompts, desi
 ### 🌟 精选类别展示
 | 预览图 | 提示词类别 | 详情链接 |
 | :--- | :--- | :--- |
-| ![Sample](images/sample1.jpg) | 赛博朋克风格 | [查看更多](http://aiimgprompt.top/category/cyberpunk) |
-| ![Sample](images/sample2.jpg) | 唯美写实人像 | [查看更多](http://aiimgprompt.top/category/portrait) |
+| ![Sample](images/sample1.jpg) | 赛博朋克风格 | [查看更多](http://aiimgprompt.top/tag/GPT%20Image%202) |
+| ![Sample](images/sample2.jpg) | 唯美写实人像 | [查看更多](http://aiimgprompt.top/tag/GPT%20Image%202) |
