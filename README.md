@@ -3,7 +3,7 @@ This is an open-source project dedicated to collecting top-tier AI prompts, desi
 
 # 🎨 AI Image Prompt Square (AI图片广场)
 
-集合了全球最顶尖的 Midjourney, Stable Diffusion, DALL-E 3 提示词及精选画作。
+集合了全球最顶尖的 Midjourney, Stable Diffusion, DALL-E 3 、GPT IMage2提示词及精选画作。
 
 🔗 **官方访问地址:** [aiimgprompt.top]
 (http://aiimgprompt.top/)
